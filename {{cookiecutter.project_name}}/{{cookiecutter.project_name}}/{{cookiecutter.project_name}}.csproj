@@ -59,7 +59,7 @@
       <HintPath>$(DalamudLibPath)Lumina.Excel.dll</HintPath>
       <Private>false</Private>
     </Reference>
-    <PackageReference Include="DalamudPackager" Version="2.1.8" />
+    <PackageReference Include="DalamudPackager" Version="2.1.11" />
   </ItemGroup>
 
   {% if cookiecutter.include_goat == "yes" %}
